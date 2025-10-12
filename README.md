@@ -777,7 +777,7 @@ ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
             <td>
                 <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-chemistry-physics-and-earth-sciences.md"><img src="https://img.shields.io/badge/112-42BA16" alt="Papers"></a>
             </td>
-            <td colspan="4" rowspan="42" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="47" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -1108,6 +1108,47 @@ ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/opt-zero-order-and-black-box-optimization.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="5" align="center"><i>Position</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/pos-data.md">Data</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/pos-data.md"><img src="https://img.shields.io/badge/4-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/pos-methodology.md">Methodology</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/pos-methodology.md"><img src="https://img.shields.io/badge/35-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/pos-risk-safety-policy.md">Risk Safety Policy</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/pos-risk-safety-policy.md"><img src="https://img.shields.io/badge/9-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/pos-social-ethical-env-impact.md">Social Ethical Env Impact</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/pos-social-ethical-env-impact.md"><img src="https://img.shields.io/badge/8-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/pos-understanding.md">Understanding</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/pos-understanding.md"><img src="https://img.shields.io/badge/4-42BA16" alt="Papers"></a>
             </td>
         </tr>
     </tbody>
