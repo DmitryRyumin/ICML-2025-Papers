@@ -777,7 +777,7 @@ ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
             <td>
                 <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-chemistry-physics-and-earth-sciences.md"><img src="https://img.shields.io/badge/112-42BA16" alt="Papers"></a>
             </td>
-            <td colspan="4" rowspan="35" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="42" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -1051,6 +1051,63 @@ ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-unsupervised-and-semi-supervised-learning.md"><img src="https://img.shields.io/badge/27-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="7" align="center"><i>Optimization</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/opt-convex.md">Convex</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/opt-convex.md"><img src="https://img.shields.io/badge/10-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/opt-discrete-and-combinatoria-optimization.md">Discrete and Combinatorial Optimization</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/opt-discrete-and-combinatoria-optimization.md"><img src="https://img.shields.io/badge/26-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/opt-everything-else.md">Everything Else</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/opt-everything-else.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/opt-large-scale-parallel-and-distributed.md">Large Scale, Parallel and Distributed</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/opt-large-scale-parallel-and-distributed.md"><img src="https://img.shields.io/badge/30-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/opt-non-convex.md">Non-Convex</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/opt-non-convex.md"><img src="https://img.shields.io/badge/15-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/opt-stochastic.md">Stochastic</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/opt-stochastic.md"><img src="https://img.shields.io/badge/13-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/opt-zero-order-and-black-box-optimization.md">Zero-Order and Black-Box Optimization</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/opt-zero-order-and-black-box-optimization.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
             </td>
         </tr>
     </tbody>
