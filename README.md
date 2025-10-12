@@ -772,83 +772,180 @@ ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
         <tr>
             <td rowspan="10" align="center"><i>Applications</i></td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/chemistry-physics-and-earth-sciences.md">Chemistry, Physics, and Earth Sciences</a>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-chemistry-physics-and-earth-sciences.md">Chemistry, Physics, and Earth Sciences</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/chemistry-physics-and-earth-sciences.md"><img src="https://img.shields.io/badge/112-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-chemistry-physics-and-earth-sciences.md"><img src="https://img.shields.io/badge/112-42BA16" alt="Papers"></a>
             </td>
-            <td colspan="4" rowspan="10" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="22" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/computer-vision.md">Computer Vision</a>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-computer-vision.md">Computer Vision</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/computer-vision.md"><img src="https://img.shields.io/badge/172-42BA16" alt="Papers"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/energy.md">Energy</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/energy.md"><img src="https://img.shields.io/badge/2-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-computer-vision.md"><img src="https://img.shields.io/badge/172-42BA16" alt="Papers"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/everything-else.md">Everything Else</a>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-energy.md">Energy</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/everything-else.md"><img src="https://img.shields.io/badge/48-42BA16" alt="Papers"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/health-medicine.md">Health / Medicine</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/health-medicine.md"><img src="https://img.shields.io/badge/70-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-energy.md"><img src="https://img.shields.io/badge/2-42BA16" alt="Papers"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/language-speech-and-dialog.md">Language, Speech and Dialog</a>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-everything-else.md">Everything Else</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/language-speech-and-dialog.md"><img src="https://img.shields.io/badge/34-42BA16" alt="Papers"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/neuroscience-cognitive-science.md">Neuroscience, Cognitive Science</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/neuroscience-cognitive-science.md"><img src="https://img.shields.io/badge/43-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-everything-else.md"><img src="https://img.shields.io/badge/48-42BA16" alt="Papers"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/robotics.md">Robotics</a>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-health-medicine.md">Health / Medicine</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/robotics.md"><img src="https://img.shields.io/badge/36-42BA16" alt="Papers"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/social-sciences.md">Social Sciences</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/social-sciences.md"><img src="https://img.shields.io/badge/8-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-health-medicine.md"><img src="https://img.shields.io/badge/70-42BA16" alt="Papers"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/time-series.md">Time Series</a>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-language-speech-and-dialog.md">Language, Speech and Dialog</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/time-series.md"><img src="https://img.shields.io/badge/27-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-language-speech-and-dialog.md"><img src="https://img.shields.io/badge/34-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-neuroscience-cognitive-science.md">Neuroscience, Cognitive Science</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-neuroscience-cognitive-science.md"><img src="https://img.shields.io/badge/43-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-robotics.md">Robotics</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-robotics.md"><img src="https://img.shields.io/badge/36-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-social-sciences.md">Social Sciences</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-social-sciences.md"><img src="https://img.shields.io/badge/8-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-time-series.md">Time Series</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-time-series.md"><img src="https://img.shields.io/badge/27-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="12" align="center"><i>Deep Learning</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-algorithms.md">Algorithms</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-algorithms.md"><img src="https://img.shields.io/badge/54-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-attention-mechanisms.md">Attention Mechanisms</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-attention-mechanisms.md"><img src="https://img.shields.io/badge/36-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-everything-else.md">Everything Else</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-everything-else.md"><img src="https://img.shields.io/badge/33-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-foundation-models.md">Foundation Models</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-foundation-models.md"><img src="https://img.shields.io/badge/47-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-generative-models-and-autoencoders.md">Generative Models and Autoencoders</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-generative-models-and-autoencoders.md"><img src="https://img.shields.io/badge/158-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-graph-neural-networks.md">Graph Neural Networks</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-graph-neural-networks.md"><img src="https://img.shields.io/badge/103-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-large-language-models.md">Large Language Models</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-large-language-models.md"><img src="https://img.shields.io/badge/430-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-other-representation-learning.md">Other Representation Learning</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-other-representation-learning.md"><img src="https://img.shields.io/badge/30-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-robustness.md">Robustness</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-robustness.md"><img src="https://img.shields.io/badge/60-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-self-supervised-learning.md">Self-Supervised Learning</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-self-supervised-learning.md"><img src="https://img.shields.io/badge/15-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-sequential-models-time-series.md">Sequential Models, Time Series</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-sequential-models-time-series.md"><img src="https://img.shields.io/badge/41-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-theory.md">Theory</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-theory.md"><img src="https://img.shields.io/badge/47-42BA16" alt="Papers"></a>
             </td>
         </tr>
     </tbody>
