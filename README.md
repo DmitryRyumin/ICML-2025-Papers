@@ -748,104 +748,43 @@ ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
                 <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/social-and-economic-perspectives.md"><img src="https://img.shields.io/badge/1-FF0000" alt="Videos"></a>
             </td>
         </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
         <tr>
-            <td colspan="5" align="left"><i>Posters</i></td>
+            <th scope="col">Track</th>
+            <th scope="col">Section</th>
+            <th scope="col">Papers</th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /></th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /></th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="6" align="center"><i>Main</i></td>
+        </tr>
+        <tr>
+            <td colspan="6" align="left"><i>Posters</i></td>
+        </tr>
+        <tr>
+            <td rowspan="2" align="center"><i>Applications</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/chemistry-physics-and-earth-sciences.md">Chemistry, Physics, and Earth Sciences</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/chemistry-physics-and-earth-sciences.md"><img src="https://img.shields.io/badge/112-42BA16" alt="Papers"></a>
+            </td>
+            <td colspan="4" rowspan="2" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-1-east.md">Session 1 East</a>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/computer-vision.md">Computer Vision</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-1-east.md"><img src="https://img.shields.io/badge/354-42BA16" alt="Papers"></a>
-            </td>
-            <td colspan="4" rowspan="12" align="center"><i>Will soon be added</i></td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-1-west.md">Session 1 West</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-1-west.md"><img src="https://img.shields.io/badge/225-42BA16" alt="Papers"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-2-east.md">Session 2 East</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-2-east.md"><img src="https://img.shields.io/badge/322-42BA16" alt="Papers"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-2-west.md">Session 2 West</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-2-west.md"><img src="https://img.shields.io/badge/218-42BA16" alt="Papers"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-3-east.md">Session 3 East</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-3-east.md"><img src="https://img.shields.io/badge/363-42BA16" alt="Papers"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-3-west.md">Session 3 West</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-3-west.md"><img src="https://img.shields.io/badge/229-42BA16" alt="Papers"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-4-east.md">Session 4 East</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-4-east.md"><img src="https://img.shields.io/badge/311-42BA16" alt="Papers"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-4-west.md">Session 4 West</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-4-west.md"><img src="https://img.shields.io/badge/204-42BA16" alt="Papers"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-5-east.md">Session 5 East</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-5-east.md"><img src="https://img.shields.io/badge/349-42BA16" alt="Papers"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-5-west.md">Session 5 West</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-5-west.md"><img src="https://img.shields.io/badge/214-42BA16" alt="Papers"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-6-east.md">Session 6 East</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-6-east.md"><img src="https://img.shields.io/badge/317-42BA16" alt="Papers"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-6-west.md">Session 6 West</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/session-6-west.md"><img src="https://img.shields.io/badge/214-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/computer-vision.md"><img src="https://img.shields.io/badge/172-42BA16" alt="Papers"></a>
             </td>
         </tr>
     </tbody>
