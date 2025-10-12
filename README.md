@@ -777,7 +777,7 @@ ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
             <td>
                 <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-chemistry-physics-and-earth-sciences.md"><img src="https://img.shields.io/badge/112-42BA16" alt="Papers"></a>
             </td>
-            <td colspan="4" rowspan="63" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="80" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -1279,6 +1279,144 @@ ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/rl-policy-search.md"><img src="https://img.shields.io/badge/2-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="7" align="center"><i>Social Aspects</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/sa-accountability-transparency-and-interpretability.md">Accountability, Transparency, and Interpretability</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/sa-accountability-transparency-and-interpretability.md"><img src="https://img.shields.io/badge/75-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/sa-alignment.md">Alignment</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/sa-alignment.md"><img src="https://img.shields.io/badge/13-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/sa-fairness.md">Fairness</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/sa-fairness.md"><img src="https://img.shields.io/badge/22-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/sa-privacy.md">Privacy</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/sa-privacy.md"><img src="https://img.shields.io/badge/63-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/sa-robustness.md">Robustness</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/sa-robustness.md"><img src="https://img.shields.io/badge/11-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/sa-safety.md">Safety</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/sa-safety.md"><img src="https://img.shields.io/badge/43-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/sa-security.md">Security</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/sa-security.md"><img src="https://img.shields.io/badge/28-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="10" align="center"><i>Theory</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/theory-active-learning-and-interactive-learning.md">Active Learning and Interactive Learning</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/theory-active-learning-and-interactive-learning.md"><img src="https://img.shields.io/badge/4-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/theory-deep-learning.md">Deep Learning</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/theory-deep-learning.md"><img src="https://img.shields.io/badge/34-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/theory-domain-adaptation-and-transfer-learning.md">Domain Adaptation and Transfer Learning</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/theory-domain-adaptation-and-transfer-learning.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/theory-everything-else.md">Everything Else</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/theory-everything-else.md"><img src="https://img.shields.io/badge/17-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/theory-game-theory.md">Game Theory</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/theory-game-theory.md"><img src="https://img.shields.io/badge/29-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/theory-learning-theory.md">Learning Theory</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/theory-learning-theory.md"><img src="https://img.shields.io/badge/81-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/theory-online-learning-and-bandits.md">Online Learning and Bandits</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/theory-online-learning-and-bandits.md"><img src="https://img.shields.io/badge/54-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/theory-optimization.md">Optimization</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/theory-optimization.md"><img src="https://img.shields.io/badge/19-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/theory-probabilistic-methods.md">Probabilistic Methods</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/theory-probabilistic-methods.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/theory-reinforcement-learning-and-planning.md">Reinforcement Learning and Planning</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/theory-reinforcement-learning-and-planning.md"><img src="https://img.shields.io/badge/34-42BA16" alt="Papers"></a>
             </td>
         </tr>
     </tbody>
