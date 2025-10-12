@@ -777,7 +777,7 @@ ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
             <td>
                 <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-chemistry-physics-and-earth-sciences.md"><img src="https://img.shields.io/badge/112-42BA16" alt="Papers"></a>
             </td>
-            <td colspan="4" rowspan="22" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="35" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -946,6 +946,111 @@ ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/dl-theory.md"><img src="https://img.shields.io/badge/47-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="13" align="center"><i>General Machine Learning</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-causality.md">Causality</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-causality.md"><img src="https://img.shields.io/badge/67-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-clustering.md">Clustering</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-clustering.md"><img src="https://img.shields.io/badge/33-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-evaluation.md">Evaluation</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-evaluation.md"><img src="https://img.shields.io/badge/37-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-everything-else.md">Everything Else</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-everything-else.md"><img src="https://img.shields.io/badge/27-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-hardware-and-software.md">Hardware and Software</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-hardware-and-software.md"><img src="https://img.shields.io/badge/8-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-kernel-methods.md">Kernel Methods</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-kernel-methods.md"><img src="https://img.shields.io/badge/7-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-online-learning-active-learning-and-bandits.md">Online Learning, Active Learning and Bandits</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-online-learning-active-learning-and-bandits.md"><img src="https://img.shields.io/badge/31-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-representation-learning.md">Representation Learning</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-representation-learning.md"><img src="https://img.shields.io/badge/49-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-scalable-algorithms.md">Scalable Algorithms</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-scalable-algorithms.md"><img src="https://img.shields.io/badge/13-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-sequential-network-and-time-series-modeling.md">Sequential, Network, and Time Series Modeling</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-sequential-network-and-time-series-modeling.md"><img src="https://img.shields.io/badge/17-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-supervised-learning.md">Supervised Learning</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-supervised-learning.md"><img src="https://img.shields.io/badge/41-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-transfer-multitask-and-meta-learning.md">Transfer, Multitask and Meta-Learning</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-transfer-multitask-and-meta-learning.md"><img src="https://img.shields.io/badge/54-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-unsupervised-and-semi-supervised-learning.md">Unsupervised and Semi-Supervised Learning</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/gml-unsupervised-and-semi-supervised-learning.md"><img src="https://img.shields.io/badge/27-42BA16" alt="Papers"></a>
             </td>
         </tr>
     </tbody>
