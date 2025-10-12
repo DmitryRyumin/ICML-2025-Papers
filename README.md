@@ -777,7 +777,7 @@ ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
             <td>
                 <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/app-chemistry-physics-and-earth-sciences.md"><img src="https://img.shields.io/badge/112-42BA16" alt="Papers"></a>
             </td>
-            <td colspan="4" rowspan="55" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="63" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -1214,6 +1214,71 @@ ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/probm-variational-inference.md"><img src="https://img.shields.io/badge/14-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="8" align="center"><i>Reinforcement Learning</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/rl-batch_offline.md">Batch/Offline</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/rl-batch_offline.md"><img src="https://img.shields.io/badge/24-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/rl-deep-rl.md">Deep RL</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/rl-deep-rl.md"><img src="https://img.shields.io/badge/41-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/rl-everything-else.md">Everything Else</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/rl-everything-else.md"><img src="https://img.shields.io/badge/9-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/rl-inverse.md">Inverse</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/rl-inverse.md"><img src="https://img.shields.io/badge/7-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/rl-multi-agent.md">Multi-Agent</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/rl-multi-agent.md"><img src="https://img.shields.io/badge/29-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/rl-online.md">Online</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/rl-online.md"><img src="https://img.shields.io/badge/8-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/rl-planning.md">Planning</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/rl-planning.md"><img src="https://img.shields.io/badge/15-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/rl-policy-search.md">Policy Search</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/rl-policy-search.md"><img src="https://img.shields.io/badge/2-42BA16" alt="Papers"></a>
             </td>
         </tr>
     </tbody>
