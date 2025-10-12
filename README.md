@@ -770,7 +770,7 @@ ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
             <td colspan="6" align="left"><i>Posters</i></td>
         </tr>
         <tr>
-            <td rowspan="2" align="center"><i>Applications</i></td>
+            <td rowspan="10" align="center"><i>Applications</i></td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/chemistry-physics-and-earth-sciences.md">Chemistry, Physics, and Earth Sciences</a>
             </td>
